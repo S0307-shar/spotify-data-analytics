@@ -20,11 +20,11 @@ The dataset contains over 100,000 tracks with information like genre, artist, da
 
 ## 🛠️ Tools & Libraries
 
-- Python 3.x
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- **Python**
+- **Streamlit** – interactive UI
+- **Plotly** – beautiful, interactive charts
+- **Pandas** – data manipulation
+- **Seaborn & Matplotlib** – for traditional visualizations
 
 ---
 
